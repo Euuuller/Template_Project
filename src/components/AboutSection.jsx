@@ -33,7 +33,7 @@ const AboutSection = () => {
                 Minha Jornada na Ciência de Dados
               </h3>
               
-              <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed md:text-justify md:indent-8">
+              <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed text-center md:text-justify md:indent-8">
                 Sou graduando em <strong className="text-gray-900 dark:text-white">Engenharia Elétrica</strong> pelo 
                 Instituto Federal de Educação, Ciência e Tecnologia do Maranhão e venho direcionando 
                 minha formação para a área de <strong className="text-gray-900 dark:text-white">Ciência de Dados</strong>. 
@@ -43,7 +43,7 @@ const AboutSection = () => {
                 sempre com ênfase no pensamento crítico e na resolução de problemas reais.
               </p>
               
-              <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed md:text-justify md:indent-8">
+              <p className="text-base md:text-lg text-gray-700 dark:text-gray-300 leading-relaxed text-center md:text-justify md:indent-8">
                 Atualmente, desenvolvo projetos práticos utilizando dados públicos, aplicando técnicas 
                 de análise, visualização e modelagem para transformar informações em ideias relevantes. 
                 Estou em busca de uma oportunidade para atuar profissionalmente como 

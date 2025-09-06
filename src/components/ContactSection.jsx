@@ -31,9 +31,9 @@ const ContactSection = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: 'Email', value: 'seu.email@gmail.com', href: 'mailto:seu.email@gmail.com' },
-    { icon: Phone, label: 'Telefone', value: '+55 (11) 99999-9999', href: 'tel:+5511999999999' },
-    { icon: MapPin, label: 'Localização', value: 'São Paulo, SP', href: '#' },
+    { icon: Mail, label: 'Email', value: 'euller.santos.duarte@gmail.com', href: 'mailto:euller.santos.duarte@gmail.com' },
+    { icon: Phone, label: 'Telefone', value: '+55 (99) 99216-8287', href: 'tel:+5599992168287' },
+    { icon: MapPin, label: 'Localização', value: 'Açailândia, MA', href: '#' },
   ];
 
   return (
@@ -79,7 +79,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <label className="block text-gray-800 dark:text-white text-sm font-medium mb-2">Mensagem</label>
-                  <textarea name="message" value={formData.message} onChange={handleChange} required rows={5} className="w-full px-4 py-3 bg-light-200 dark:bg-dark-400 text-gray-800 dark:text-white rounded-lg border border-light-400 dark:border-gray-700 focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500/50 transition-all resize-none" placeholder="Descreva sua necessidade..."></textarea>
+                  <textarea name="message" value={formData.message} onChange={handleChange} required rows={5} className="w-full px-4 py-3 bg-light-200 dark:bg-dark-400 text-gray-800 dark:text-white rounded-lg border border-light-400 dark:border-gray-700 focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500/50 transition-all resize-none" placeholder="🤝 Escreva sua mensagem..."></textarea>
                 </div>
                 <motion.button whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} type="submit" disabled={isLoading} className="w-full bg-primary-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-600 transition-all duration-300 flex items-center justify-center space-x-2 disabled:opacity-70">
                   {isLoading ? (<><div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div><span>Enviando...</span></>) : (<><Send size={20} /><span>Enviar Mensagem</span></>)}
