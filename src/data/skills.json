@@ -1,0 +1,202 @@
+{
+  "languages": [
+    {
+      "name": "Python",
+      "description": "Linguagem principal para Data Science, Machine Learning e automação.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "level": 95
+    },
+    {
+      "name": "R",
+      "description": "Análise estatística avançada e visualização de dados.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg",
+      "level": 85
+    },
+    {
+      "name": "SQL",
+      "description": "Consultas complexas, otimização e manipulação de bancos de dados.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "level": 90
+    },
+    {
+      "name": "Jupyter",
+      "description": "Ambiente interativo para desenvolvimento de código e documentação.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg",
+      "level": 90
+    },
+    {
+      "name": "Pandas",
+      "description": "Biblioteca para manipulação, limpeza e análise de dados estruturados.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg",
+      "level": 95
+    },
+    {
+      "name": "PostgreSQL",
+      "description": "Bancos de dados relacionais robustos para grandes volumes de dados.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+      "level": 85
+    },
+    {
+      "name": "SQLite",
+      "description": "Bancos de dados leves para prototipagem e aplicações menores.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
+      "level": 80
+    },
+    {
+      "name": "SQL Server",
+      "description": "Gerenciamento e consulta de dados em ambientes corporativos.",
+      "icon": "https://img.icons8.com/color/48/000000/microsoft-sql-server.png",
+      "level": 75
+    }
+  ],
+  "visualization": [
+    {
+      "name": "Matplotlib",
+      "description": "Visualizações estáticas personalizadas e gráficos científicos.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg",
+      "level": 90
+    },
+    {
+      "name": "Plotly",
+      "description": "Gráficos interativos e dashboards dinâmicos para web.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg",
+      "level": 88
+    },
+    {
+      "name": "Seaborn",
+      "description": "Visualizações estatísticas elegantes baseadas em Matplotlib.",
+      "icon": "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg",
+      "level": 85
+    },
+    {
+      "name": "Power BI",
+      "description": "Business Intelligence e relatórios executivos interativos.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg",
+      "level": 80
+    },
+    {
+      "name": "Tableau",
+      "description": "Plataforma líder em visualização e análise de dados empresariais.",
+      "icon": "https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png",
+      "level": 75
+    },
+    {
+      "name": "Excel",
+      "description": "Análise de dados, tabelas dinâmicas e automação com VBA.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg",
+      "level": 90
+    },
+    {
+      "name": "Streamlit",
+      "description": "Criação rápida de aplicações web para ciência de dados.",
+      "icon": "https://streamlit.io/images/brand/streamlit-mark-color.svg",
+      "level": 85
+    },
+    {
+      "name": "Dash",
+      "description": "Framework para criar aplicações analíticas interativas.",
+      "icon": "https://dash.plotly.com/assets/images/language_icons/python_50px.svg",
+      "level": 70
+    }
+  ],
+  "ml": [
+    {
+      "name": "Scikit-learn",
+      "description": "Algoritmos de Machine Learning clássicos e pré-processamento.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg",
+      "level": 95
+    },
+    {
+      "name": "TensorFlow",
+      "description": "Deep Learning, redes neurais e modelos de grande escala.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg",
+      "level": 85
+    },
+    {
+      "name": "PyTorch",
+      "description": "Framework flexível para pesquisa e desenvolvimento em IA.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg",
+      "level": 80
+    },
+    {
+      "name": "XGBoost",
+      "description": "Gradient boosting otimizado para competições e produção.",
+      "icon": "https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png",
+      "level": 90
+    },
+    {
+      "name": "NumPy",
+      "description": "Computação numérica eficiente e operações com arrays.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg",
+      "level": 95
+    },
+    {
+      "name": "SciPy",
+      "description": "Algoritmos científicos, otimização e estatística avançada.",
+      "icon": "https://scipy.org/images/logo.svg",
+      "level": 85
+    },
+    {
+      "name": "Statsmodels",
+      "description": "Modelagem estatística, testes de hipóteses e análise econométrica.",
+      "icon": "https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg",
+      "level": 80
+    },
+    {
+      "name": "NLTK",
+      "description": "Processamento de linguagem natural e análise de texto.",
+      "icon": "https://miro.medium.com/max/592/1*YM2HXc7f4v02pZBEO8h-qw.png",
+      "level": 75
+    }
+  ],
+  "engineering": [
+    {
+      "name": "Git",
+      "description": "Controle de versão e colaboração em projetos de código.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "level": 90
+    },
+    {
+      "name": "Docker",
+      "description": "Containerização e deploy de aplicações de machine learning.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "level": 80
+    },
+    {
+      "name": "AWS",
+      "description": "Serviços de nuvem para processamento e armazenamento de dados.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
+      "level": 75
+    },
+    {
+      "name": "Linux",
+      "description": "Administração de sistemas e automação de processos.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+      "level": 85
+    },
+    {
+      "name": "Apache Spark",
+      "description": "Processamento distribuído de big data e analytics.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg",
+      "level": 70
+    },
+    {
+      "name": "Hadoop",
+      "description": "Ecossistema para armazenamento e processamento de big data.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg",
+      "level": 65
+    },
+    {
+      "name": "FastAPI",
+      "description": "Framework moderno para criação de APIs de machine learning.",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg",
+      "level": 80
+    },
+    {
+      "name": "MLflow",
+      "description": "Gerenciamento do ciclo de vida de modelos de machine learning.",
+      "icon": "https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png",
+      "level": 75
+    }
+  ]
+}

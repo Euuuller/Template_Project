@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Predição de Preços de Imóveis",
+    "description": "Sistema de ML para predição de preços de imóveis usando Random Forest e XGBoost. Alcançou 92% de precisão na validação.",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=600&h=400&fit=crop",
+    "technologies": ["Python", "Scikit-learn", "XGBoost", "Pandas", "Matplotlib"],
+    "github": "https://github.com/seu-usuario/house-price-prediction",
+    "demo": "https://house-prices-ml.netlify.app",
+    "category": "Machine Learning"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard de Análise de Vendas",
+    "description": "Dashboard interativo com análise de dados de vendas em tempo real. Inclui métricas KPI e visualizações avançadas.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+    "technologies": ["Python", "Streamlit", "Plotly", "PostgreSQL", "Docker"],
+    "github": "https://github.com/seu-usuario/sales-dashboard",
+    "demo": "https://sales-analytics-dashboard.herokuapp.com",
+    "category": "Data Visualization"
+  },
+  {
+    "id": 3,
+    "title": "Análise de Sentimentos com NLP",
+    "description": "Modelo de classificação de sentimentos em reviews de produtos usando BERT e técnicas de NLP avançadas.",
+    "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=600&h=400&fit=crop",
+    "technologies": ["Python", "BERT", "Transformers", "NLTK", "Flask"],
+    "github": "https://github.com/seu-usuario/sentiment-analysis",
+    "demo": "https://sentiment-analyzer-nlp.herokuapp.com",
+    "category": "NLP"
+  }
+]
