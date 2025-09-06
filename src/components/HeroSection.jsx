@@ -40,7 +40,7 @@ const HeroSection = () => {
             <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-[420px] lg:h-[420px]">
               <div className="absolute inset-0 bg-gradient-to-br from-primary-500 to-blue-700 rounded-full animate-glow opacity-50"></div>
               <img 
-                src="/assets/images/1_Image.jpg"
+                src="./assets/images/1_Image.jpg"
                 alt="Foto de perfil de Euller Duarte"
                 className="relative w-full h-full object-cover rounded-full border-4 border-light-100 dark:border-dark-500 shadow-2xl"
               />
